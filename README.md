@@ -1,4 +1,4 @@
-## Hey, I'm Shay
+## Hey there
 
 Python developer from New Zealand. I build autonomous systems, trading bots, and web apps — mostly for fun, sometimes for profit.
 
@@ -15,7 +15,7 @@ Python developer from New Zealand. I build autonomous systems, trading bots, and
 
 ### Background
 
-BBus (Marketing) from AUT — self-taught everything else. Previously ICT Support at AUT University and Course Advisor. Now building things full-time from Taranaki.
+BBus (Marketing) from AUT — self-taught everything else. Previously ICT Support at AUT University and Course Advisor. Now building things full-time from New Zealand.
 
 Currently open to **remote junior Python dev**, **digital marketing**, or **admin** roles.
 
