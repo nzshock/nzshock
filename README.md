@@ -20,6 +20,4 @@ BBus (Marketing) from AUT — self-taught everything else. Previously ICT Suppor
 Currently open to **remote junior Python dev**, **digital marketing**, or **admin** roles.
 
 ### Get in touch
-
-[![Email](https://img.shields.io/badge/Email-shay33rai%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:shay33rai@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nzshock-181717?style=flat-square&logo=github)](https://github.com/nzshock)
