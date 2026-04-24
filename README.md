@@ -19,9 +19,9 @@ Private projects in production right now:
 
 ## Public work
 
-**[plex-downloader](https://github.com/nzshock/plex-downloader)** — Natural language media downloader: torrent search → smart scoring → qBittorrent → Plex library. `Python` `asyncio` `REST APIs`
+**[plex-downloader](https://github.com/nzshock/plex-downloader)** — Find any movie or show in plain English; AI scores torrents and adds the best match to Plex automatically. `Python` `asyncio` `REST APIs`
 
-**[telegram-torrent-bot](https://github.com/nzshock/telegram-torrent-bot)** — Manage qBittorrent remotely via Telegram. Add torrents, monitor progress, control from your phone. `Python` `Telegram Bot API`
+**[telegram-torrent-bot](https://github.com/nzshock/telegram-torrent-bot)** — Control your download server from any device via Telegram — no web UI, no babysitting. `Python` `Telegram Bot API`
 
 ---
 
