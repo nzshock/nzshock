@@ -1,23 +1,40 @@
-## Hey there
+# Shay Rai · Python Developer
 
-Python developer from New Zealand. I build autonomous systems, trading bots, and web apps — mostly for fun, sometimes for profit.
+Self-taught Python dev from New Zealand with a marketing degree and a habit of shipping things that actually run. AI automation, trading bots, Telegram bots — progressively more ambitious since 2023.
 
-### What I'm working on
+**Open to remote:** junior Python dev · digital marketing · admin/coordination
 
-- **MatrixServer AI** — Multi-agent autonomous system (Claude + Gemini APIs) running 24/7 on a home server. Cron scheduling, Telegram interface, persistent memory, browser automation, inter-agent communication.
-- **Coinbase Grid Bot** — Live BTC-USD grid trading bot with real capital. Auto-rebalancing, fill logging, CLI management.
-- **MatrixServer Dashboard** — Flask web app for system monitoring and grid bot P&L. Exposed via Cloudflare tunnel.
-- **SHOCKBOT** — Twitch chatbot built on TwitchIO v3 with 106+ tests, custom commands, and overlay integration.
+---
 
-### Tech I use
+## What I build
 
-`Python` · `asyncio` · `Flask` · `Claude API` · `Gemini API` · `Playwright` · `REST APIs` · `Telegram Bot API` · `Twitch API` · `Coinbase API` · `Git` · `WordPress` · `HTML/CSS` · `Solidity`
+Production Python — asyncio-heavy, API-driven, designed to run unattended. The marketing degree from AUT means I think about what users actually need, not just what's technically interesting.
 
-### Background
+Private projects in production right now:
+- **Live BTC-USD grid trading bot** — Coinbase, real capital, auto-rebalancing and fill logging
+- **Multi-agent AI system** — Claude + Gemini APIs, cron scheduler, Telegram interface, 24/7 autonomous operation
+- **Twitch chatbot** — TwitchIO v3, 106+ tests, custom commands, stream overlay integration
 
-BBus (Marketing) from AUT — self-taught everything else. Previously ICT Support at AUT University and Course Advisor. Now building things full-time from New Zealand.
+---
 
-Currently open to **remote junior Python dev**, **digital marketing**, or **admin** roles.
+## Public work
 
-### Get in touch
-[![GitHub](https://img.shields.io/badge/GitHub-nzshock-181717?style=flat-square&logo=github)](https://github.com/nzshock)
+**[plex-downloader](https://github.com/nzshock/plex-downloader)** — Natural language media downloader: torrent search → smart scoring → qBittorrent → Plex library. `Python` `asyncio` `REST APIs`
+
+**[telegram-torrent-bot](https://github.com/nzshock/telegram-torrent-bot)** — Manage qBittorrent remotely via Telegram. Add torrents, monitor progress, control from your phone. `Python` `Telegram Bot API`
+
+---
+
+## Stack
+
+`Python` · `asyncio` · `Flask` · `Claude API` · `Gemini API` · `REST APIs` · `Telegram Bot API` · `Coinbase API` · `Twitch API` · `Playwright` · `Git` · `WordPress` · `HTML/CSS`
+
+---
+
+## Background
+
+BBus Marketing — AUT University (2015–2018). Former ICT Support Tech and Course Advisor at AUT. Self-taught dev building progressively more complex systems since 2023. Based in Taranaki, New Zealand.
+
+---
+
+📧 > · 🌐 [nzshock.github.io](https://nzshock.github.io)
