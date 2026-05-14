@@ -1,4 +1,4 @@
-# Shay Rai · Python Developer
+# NZSHOCK
 
 Self-taught Python dev from New Zealand with a marketing degree and a habit of shipping things that actually run. AI automation, trading bots, Telegram bots — progressively more ambitious since 2023.
 
