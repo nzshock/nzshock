@@ -1,19 +1,19 @@
 # NZSHOCK
 
-Self-taught Python dev from New Zealand with a marketing degree and a habit of shipping things that actually run. AI automation, trading bots, Telegram bots — progressively more ambitious since 2023.
+Self-taught Python developer with a marketing degree (BBus, AUT) and four years operating production AI and automation systems on a 24/7 home server — autonomous multi-agent platforms, a live crypto trading bot with real capital deployed, and the Telegram, web, and chat tooling around them.
 
-**Open to remote:** junior Python dev · digital marketing · admin/coordination
+**Open to remote:** Python development · automation · AI integrations · digital marketing · admin/coordination
 
 ---
 
 ## What I build
 
-Production Python — asyncio-heavy, API-driven, designed to run unattended. The marketing degree from AUT means I think about what users actually need, not just what's technically interesting.
+Production Python — asyncio-heavy, API-driven, designed to run unattended. The marketing background means I think about what users actually need, not just what's technically interesting.
 
-Private projects in production right now:
-- **Live BTC-USD grid trading bot** — Coinbase, real capital, auto-rebalancing and fill logging
-- **Multi-agent AI system** — Claude + Gemini APIs, cron scheduler, Telegram interface, 24/7 autonomous operation
-- **Twitch chatbot** — TwitchIO v3, 106+ tests, custom commands, stream overlay integration
+Private projects running right now:
+- **MatrixServer AI** — Multi-agent platform orchestrating Claude + Gemini agents with cron scheduling, persistent memory, browser automation (Playwright), inter-agent messaging, and self-healing task queues. Telegram-driven with web dashboard. Running since 2022.
+- **Coinbase Grid Bot** — Real-capital BTC-USD algorithmic trader on the Coinbase Advanced Trade API. OS-level process locks, automatic range rebalancing, CSV fill logging, CLI management. Live since 2024.
+- **SHOCKBOT** — Custom Twitch chatbot. Chat commands, OBS overlay integration, stream tools. TwitchIO, 106+ tests.
 
 ---
 
@@ -27,13 +27,13 @@ Private projects in production right now:
 
 ## Stack
 
-`Python` · `asyncio` · `Flask` · `Claude API` · `Gemini API` · `REST APIs` · `Telegram Bot API` · `Coinbase API` · `Twitch API` · `Playwright` · `Git` · `WordPress` · `HTML/CSS`
+`Python` · `asyncio` · `Flask` · `Claude API` · `Gemini API` · `Coinbase API` · `Twitch API` · `Telegram Bot API` · `Playwright` · `Webhooks` · `Cloudflare` · `Git` · `WordPress` · `HTML/CSS`
 
 ---
 
 ## Background
 
-BBus Marketing — AUT University (2015–2018). Former ICT Support Tech and Course Advisor at AUT. Self-taught dev building progressively more complex systems since 2023. Based in Taranaki, New Zealand.
+BBus Marketing — AUT University (2015–2018). Former ICT Support Tech and Course Advisor at AUT. Self-taught developer building progressively more complex systems since 2022. Based in Taranaki, New Zealand.
 
 ---
 
