@@ -6,8 +6,6 @@ Python developer building automation systems that run without supervision. Four 
 
 ## Public Projects
 
-**[coinbase-grid-bot](https://github.com/nzshock/coinbase-grid-bot)** — Live BTC-USD grid trading bot on the Coinbase Advanced Trade API. Real capital, automatic range rebalancing, OS-level process locks, CSV fill logging. `Python` `asyncio` `Coinbase API`
-
 **[telegram-torrent-bot](https://github.com/nzshock/telegram-torrent-bot)** — Control your download server from any device via Telegram — no web UI, no babysitting. `Python` `Telegram Bot API`
 
 ---
